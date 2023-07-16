@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1,
+        "product_line": "Credit facility",
+        "group": "Overdraft facility",
+        "product": "Fresh",
+        "product_full_name":"Fresh Overdraft Credit facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form",
+            "Pledge a collateral as per the risk grade",
+            "If there is OD facility in other bank, pledge a collateral that covers 100% of overdraft facility",
+            "Select collateral type, fill the required information, and upload evidence of collateral"
+        ]
+    },
+    {
+        "id": 2,
+        "product_line": "Credit facility",
+        "group": "Overdraft facility",
+        "product": "Increase limit",
+        "product_full_name":"Overdraft Increase limit",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form",
+            "If there is OD facility at our bank and want increase it, pledge a collateral that covers 100% of increased overdraft facility",
+            "Select collateral type, fill the required information, and upload evidence of new collateral"
+        ]
+    },
+    {
+        "id": 3,
+        "product_line": "Credit facility",
+        "group": "Overdraft facility",
+        "product": "Decrease limit",
+        "product_full_name":"Decrease limit Overdraft Credit facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form"
+        ]
+    },
+    {
+        "id": 4,
+        "product_line": "Credit facility",
+        "group": "Overdraft facility",
+        "product": "limitrenewal",
+        "product_full_name":"Limit renewal overdraft credit facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form"
+        ]
+    },
+    {
+        "id": 5,
+        "product_line": "others",
+        "group": "merchandisefacility",
+        "product": "fresh",
+        "product_full_name":"Fresh merchandise facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form",
+            "Custom declaration for imported goods",
+            "Valid credit sales invoices for local purchase",
+            "Production report for manufacturing",
+            "Fast moving items",
+            "Not be perishable goods (like Chemicals except fertilizer, Packed Foods, Pharmaceuticals, Batteries, Butter, Oil, Yeast, easily perishable agricultural produces, etc).",
+            "The storeroom is made of stone or bricks or hollow blocks or thick metal (yes/no)",
+            "Internal door are sealed firmly with metal or strong metal (yes/no)",
+            "Evidence of wateperson recruitement for cumbersomer items stored in fenced compound",
+            "The door(s) are made of sheet metal having a minimum thickness of 0.2 mm (yes/no)",
+            "Ownership evidence of the store",
+            "If owner of the store is other than the applicant, rent agreement with store owner",
+            "Store rent payment receipt",
+            "The windows and any ventilation openings are grilled with iron bars.",
+            "The locks are of high quality and acceptable to the Bank.",
+            "Fire extinguishers are placed at appropriate locations.",
+            "Evidence of adequate security recruitment and arrangement"
+        ]
+    },
+    {
+        "id": 6,
+        "product_line": "Credit facility",
+        "group": "Overdraft facility",
+        "product": "limitrenewal",
+        "product_full_name":"Limit renewal credit facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form"
+        ]
+    },
+    {
+        "id": 7,
+        "product_line": "others",
+        "group": "merchandisefacility",
+        "product": "fresh",
+        "product_full_name":"Fresh merchandise facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form",
+            "Custom declaration for imported goods",
+            "Valid credit sales invoices for local purchase",
+            "Production report for manufacturing",
+            "Fast moving items",
+            "Not be perishable goods (like Chemicals except fertilizer, Packed Foods, Pharmaceuticals, Batteries, Butter, Oil, Yeast, easily perishable agricultural produces, etc).",
+            "The storeroom is made of stone or bricks or hollow blocks or thick metal (yes/no)",
+            "Internal door are sealed firmly with metal or strong metal (yes/no)",
+            "Evidence of wateperson recruitement for cumbersomer items stored in fenced compound",
+            "The door(s) are made of sheet metal having a minimum thickness of 0.2 mm (yes/no)",
+            "Ownership evidence of the store",
+            "If owner of the store is other than the applicant, rent agreement with store owner",
+            "Store rent payment receipt",
+            "The windows and any ventilation openings are grilled with iron bars.",
+            "The locks are of high quality and acceptable to the Bank.",
+            "Fire extinguishers are placed at appropriate locations.",
+            "Evidence of adequate security recruitment and arrangement"
+        ]
+    },
+    {
+        "id": 8,
+        "product_line": "Credit facility",
+        "group": "Overdraft facility",
+        "product": "limitrenewal",
+        "product_full_name":"Fresh merchandise facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form"
+        ]
+    },
+    {
+        "id": 9,
+        "product_line": "others",
+        "group": "merchandisefacility",
+        "product": "fresh",
+        "product_full_name":"Fresh merchandise facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form",
+            "Custom declaration for imported goods",
+            "Valid credit sales invoices for local purchase",
+            "Production report for manufacturing",
+            "Fast moving items",
+            "Not be perishable goods (like Chemicals except fertilizer, Packed Foods, Pharmaceuticals, Batteries, Butter, Oil, Yeast, easily perishable agricultural produces, etc).",
+            "The storeroom is made of stone or bricks or hollow blocks or thick metal (yes/no)",
+            "Internal door are sealed firmly with metal or strong metal (yes/no)",
+            "Evidence of wateperson recruitement for cumbersomer items stored in fenced compound",
+            "The door(s) are made of sheet metal having a minimum thickness of 0.2 mm (yes/no)",
+            "Ownership evidence of the store",
+            "If owner of the store is other than the applicant, rent agreement with store owner",
+            "Store rent payment receipt",
+            "The windows and any ventilation openings are grilled with iron bars.",
+            "The locks are of high quality and acceptable to the Bank.",
+            "Fire extinguishers are placed at appropriate locations.",
+            "Evidence of adequate security recruitment and arrangement"
+        ]
+    },
+    {
+        "id": 10,
+        "product_line": "Credit facility",
+        "group": "Overdraft facility",
+        "product": "limitrenewal",
+        "product_full_name":"Fresh merchandise facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form"
+        ]
+    },
+    {
+        "id": 11,
+        "product_line": "others",
+        "group": "merchandisefacility",
+        "product": "fresh",
+        "product_full_name":"Fresh merchandise facility",
+        "specific_eligibility_criteria": [
+            "Fulfill general elibility criteria and complete/update customer information",
+            "Credit application letter",
+            "Credit application form",
+            "Custom declaration for imported goods",
+            "Valid credit sales invoices for local purchase",
+            "Production report for manufacturing",
+            "Fast moving items",
+            "Not be perishable goods (like Chemicals except fertilizer, Packed Foods, Pharmaceuticals, Batteries, Butter, Oil, Yeast, easily perishable agricultural produces, etc).",
+            "The storeroom is made of stone or bricks or hollow blocks or thick metal (yes/no)",
+            "Internal door are sealed firmly with metal or strong metal (yes/no)",
+            "Evidence of wateperson recruitement for cumbersomer items stored in fenced compound",
+            "The door(s) are made of sheet metal having a minimum thickness of 0.2 mm (yes/no)",
+            "Ownership evidence of the store",
+            "If owner of the store is other than the applicant, rent agreement with store owner",
+            "Store rent payment receipt",
+            "The windows and any ventilation openings are grilled with iron bars.",
+            "The locks are of high quality and acceptable to the Bank.",
+            "Fire extinguishers are placed at appropriate locations.",
+            "Evidence of adequate security recruitment and arrangement"
+        ]
+    }
+]
